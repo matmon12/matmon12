@@ -29,3 +29,5 @@
       <img alt="Github top language" src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
   <img alt="Github top language" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matmon12&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
